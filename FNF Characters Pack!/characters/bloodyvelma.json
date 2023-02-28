@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bloodyVelmaIdle copy"
+		},
+		{
+			"offsets": [
+				48,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bloodyVelmaEsquerda"
+		},
+		{
+			"offsets": [
+				23,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bloodyVelmaBaixo"
+		},
+		{
+			"offsets": [
+				-21,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bloodyVelmaCima"
+		},
+		{
+			"offsets": [
+				-34,
+				-6
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bloodyVelmaIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters-pack/remaster\\velmawhyyoudidthis",
+	"position": [
+		100,
+		90
+	],
+	"healthicon": "velma",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		156,
+		64
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

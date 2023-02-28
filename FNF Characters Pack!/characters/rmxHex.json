@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ilde instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				241,
+				-99
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-171
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jefheziuoghz instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AAAAAA instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-179
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FUCK U instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters-pack/hex\\rmxHex",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "velma left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "velma down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "velma up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "velma lright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "velma idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters-pack/velmagod",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "godvelma",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		156,
+		64
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

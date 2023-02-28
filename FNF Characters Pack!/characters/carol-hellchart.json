@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "carol left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "carol up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "carol right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "carol idle"
+		},
+		{
+			"offsets": [
+				-1,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "carol down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters-pack/carol_angel_assets",
+	"position": [
+		-150,
+		-80
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

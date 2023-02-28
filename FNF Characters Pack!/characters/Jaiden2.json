@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jaiden_Idle"
+		},
+		{
+			"offsets": [
+				-104,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jaiden_Left"
+		},
+		{
+			"offsets": [
+				-150,
+				-236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jaiden_Down"
+		},
+		{
+			"offsets": [
+				-118,
+				209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jaiden_Up"
+		},
+		{
+			"offsets": [
+				-185,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jaiden_Right"
+		},
+		{
+			"offsets": [
+				210,
+				461
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "arievent",
+			"loop": false,
+			"name": "Jaiden_Event_Ari"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters-pack/Jaiden",
+	"position": [
+		0,
+		120
+	],
+	"healthicon": "jaiden2",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		8,
+		177
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

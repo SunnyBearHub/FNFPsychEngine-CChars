@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "VelmaEsquerda"
+		},
+		{
+			"offsets": [
+				3,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "VelmaBaixo"
+		},
+		{
+			"offsets": [
+				-1,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "VelmaCima"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "VelmaIdle copy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "VelmaIdle",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters-pack/remaster\\velmagod",
+	"position": [
+		100,
+		-140
+	],
+	"healthicon": "velma",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		156,
+		64
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

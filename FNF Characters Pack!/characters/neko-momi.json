@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "momi cat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "momi cat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "momi cat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "momi cat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "momi cat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				30
+			],
+			"anim": "ranover",
+			"fps": 24,
+			"name": "momi cat ranover",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters-pack/nekomomi_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "momi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="velmawhyyoudidthis.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bloodyVelmaBaixo0000" x="295" y="620" width="278" height="584" frameX="-3" frameY="-12" frameWidth="281" frameHeight="596"/>
+	<SubTexture name="bloodyVelmaBaixo0001" x="295" y="620" width="278" height="584" frameX="-3" frameY="-12" frameWidth="281" frameHeight="596"/>
+	<SubTexture name="bloodyVelmaBaixo0002" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaBaixo0003" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaBaixo0004" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaBaixo0005" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaBaixo0006" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaBaixo0007" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaBaixo0008" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaBaixo0009" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaBaixo0010" x="270" y="1216" width="281" height="596"/>
+	<SubTexture name="bloodyVelmaCima0000" x="1341" y="1208" width="236" height="609" frameX="-4" frameY="0" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0001" x="1341" y="1208" width="236" height="609" frameX="-4" frameY="0" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0002" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0003" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0004" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0005" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0006" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0007" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0008" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0009" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaCima0010" x="1272" y="604" width="240" height="604" frameX="0" frameY="-4" frameWidth="240" frameHeight="609"/>
+	<SubTexture name="bloodyVelmaEsquerda0000" x="0" y="614" width="295" height="602" frameX="-5" frameY="-4" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0001" x="0" y="614" width="295" height="602" frameX="-5" frameY="-4" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0002" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0003" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0004" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0005" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0006" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0007" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0008" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0009" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaEsquerda0010" x="732" y="0" width="291" height="606" frameX="0" frameY="0" frameWidth="300" frameHeight="606"/>
+	<SubTexture name="bloodyVelmaIdle0000" x="0" y="0" width="372" height="614" frameX="0" frameY="-6" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0001" x="0" y="0" width="372" height="614" frameX="0" frameY="-6" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0002" x="372" y="0" width="360" height="620" frameX="-6" frameY="0" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0003" x="372" y="0" width="360" height="620" frameX="-6" frameY="0" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0004" x="372" y="0" width="360" height="620" frameX="-6" frameY="0" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0005" x="372" y="0" width="360" height="620" frameX="-6" frameY="0" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0006" x="372" y="0" width="360" height="620" frameX="-6" frameY="0" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0007" x="372" y="0" width="360" height="620" frameX="-6" frameY="0" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0008" x="372" y="0" width="360" height="620" frameX="-6" frameY="0" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle0009" x="372" y="0" width="360" height="620" frameX="-6" frameY="0" frameWidth="372" frameHeight="620"/>
+	<SubTexture name="bloodyVelmaIdle copy0000" x="1023" y="0" width="248" height="602" frameX="-28" frameY="-22" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0001" x="1272" y="0" width="255" height="604" frameX="-21" frameY="-21" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0002" x="534" y="2431" width="263" height="605" frameX="-13" frameY="-20" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0003" x="1080" y="1844" width="261" height="609" frameX="-10" frameY="-16" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0004" x="268" y="2457" width="266" height="612" frameX="-4" frameY="-13" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0005" x="0" y="2457" width="268" height="618" frameX="-2" frameY="-7" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0006" x="732" y="606" width="270" height="625" frameX="0" frameY="0" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0007" x="0" y="1216" width="270" height="622" frameX="0" frameY="-3" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0008" x="1002" y="606" width="270" height="619" frameX="0" frameY="-6" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0009" x="1002" y="1225" width="270" height="619" frameX="0" frameY="-6" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0010" x="0" y="1838" width="270" height="619" frameX="0" frameY="-6" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0011" x="270" y="1812" width="270" height="619" frameX="0" frameY="-6" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0012" x="540" y="1812" width="270" height="619" frameX="0" frameY="-6" frameWidth="276" frameHeight="625"/>
+	<SubTexture name="bloodyVelmaIdle copy0013" x="810" y="1844" width="270" height="619" frameX="0" frameY="-6" frameWidth="276" frameHeight="625"/>
+</TextureAtlas>
