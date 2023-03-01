@@ -43,4 +43,6 @@ VS Noob Remastered
 
 VS Robotnik - The Mayz
 
+Sunday Night Suicide - The Mayz / TheShippySea
+
 The Full-Ass Tricky Mod - Banbuds
