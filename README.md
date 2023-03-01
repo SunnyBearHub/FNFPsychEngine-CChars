@@ -2,6 +2,10 @@
 
 Welcome to my FNF Characters Pack! i efforted so much to create this
 
+This will get BIGGER in a future, with more mods, reskins, and more!
+
+WARNING: This file is BIG, so if your pc cant support big files then DO NOT DOWNLOAD THE ENTIRE ZIP, just download some assets you want.
+
 **SCREENSHOTS**
 
 [![Captura-de-pantalla-443.png](https://i.postimg.cc/8k34PJZQ/Captura-de-pantalla-443.png)](https://postimg.cc/z3CKxBm0)
